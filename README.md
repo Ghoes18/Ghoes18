@@ -5,6 +5,7 @@
 </div>
 <div>
   <h1>Contact me</h1>
-  https://www.linkedin.com/in/gonçalo-guimarães-11547220a/
-  gohxn123@gmail.com
+  Linkdin: https://www.linkedin.com/in/gonçalo-guimarães-11547220a/
+  <br>
+  E-mail: gohxn123@gmail.com
  </div>
