@@ -7,5 +7,5 @@
   <h1>Contact me</h1>
   Linkdin: https://www.linkedin.com/in/gonçalo-guimarães-11547220a/
   <br>
-  E-mail: gohxn123@gmail.com
+  E-mail: goncaloguimaraes@protonmail.com
  </div>
